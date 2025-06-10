@@ -12,6 +12,9 @@ Food waste is a major issue in large retail environments due to overstocking, sp
 
 ![Dashboard Screenshot](https://github.com/Sanjeev027/Food-Waste-Optimization-in-Supermarkets/blob/main/Screenshot%202025-06-08%20135825.png?raw=true)
 
+### 🔗 Live Dashboard  
+[Click here to view the interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWY0Y2UzYmMtNmU5NS00MjU1LWE1ZjgtZDFiNzRjMGI1MzU1IiwidCI6IjgwOGNjODNlLWE1NDYtNDdlNy1hMDNmLTczYTFlYmJhMjRmMyIsImMiOjEwfQ%3D%3D)
+
 ---
 
 ## 📁 Dataset
